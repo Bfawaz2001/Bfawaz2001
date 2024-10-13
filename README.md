@@ -23,4 +23,4 @@ You can click the Preview link to take a look at your changes.
 📫 How to reach me:
 - Email: b.fawaz2001@gmail.com
 - LinkedIn: [Bilal Fawaz](https://www.linkedin.com/in/bilal-fawaz)
-Feel free to explore my repositories and reach out for any collaborations or opportunities!
+- Feel free to explore my repositories and reach out for any collaborations or opportunities!
