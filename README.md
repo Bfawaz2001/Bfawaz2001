@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 👋 Hi, I’m Bilal Fawaz
 - I am a First Class Honours Graduate in BSc (Hons) Computer Science and Artificial Intelligence (with an integrated year in industry) from Aberystwyth University. My passion lies in developing innovative solutions that
-  leverage Machine Learning, Artificial Intelligence, and Fintech technologies to solve complex problems.
+  leverage Machine Learning and Artificial Intelligence to solve complex problems.
 
 👀 Interests & Skills:
 - Machine Learning & AI: Enthusiastic about applying AI techniques to real-world challenges, particularly in computer vision, natural language processing, and predictive modeling.
